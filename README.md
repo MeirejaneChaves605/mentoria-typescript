@@ -1,4 +1,4 @@
-# Aula de Typescript da Take na plataforma DIO
+# mentoria-typescript
   
 *Bem vindo!!*
 
